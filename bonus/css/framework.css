@@ -12,13 +12,9 @@
   }
   a{
     text-decoration: none;
-    color: rgb(184, 157, 157);
+    
   }
-  .row h2{
-    color: #031c4e;
-    padding-bottom: 10px;
-    font-weight: bold;
-   }
+ 
     /* tipografy */
     h1 {
       font-size: 55px;
@@ -34,7 +30,7 @@
       
     }
     .font_size_25{
-      font-size: 30px;
+      font-size: 25px;
       
     }
     .text-center{
@@ -64,7 +60,7 @@
         color: #006aff;
     }
     .ms_text_darkblue{
-      color: #031c4e;
+      color: #091D3A;
     }
     .text_color-grey{
       color: #77797D;
